@@ -1,0 +1,58 @@
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size:60px;
+}
+
+h4,button,h3,.copy_right_footer{
+  font-family:'Gaegu',cursive;
+}
+
+body{
+    background-image:url("https://wallpapercave.com/wp/wp8531521.jpg");
+}
+
+.header_div{
+background-color: rgba(255, 255, 255, 0.52);
+}
+
+button{
+    margin-top:30px;
+    width:17%;
+    height:40px;
+    font-size:20px;
+    background-color: #86bbda;
+    color:white;
+    border-radius:50px;
+    border-color:white;
+    border-style:dashed;
+}
+
+button:hover{
+    margin-top:30px;
+    width:17%;
+    height:40px;
+    font-size:20px;
+    background-color: #71a2be;
+    color:white;
+    border-radius:50px;
+    border-color:white;
+    border-style:dashed;
+}
+
+hr{
+    width:30%;
+}
+
+.icon{
+    width:300px;
+    height:300px;
+}
+
+.copy_right_footer{
+    bottom:0;
+    position:fixed;
+    width:100%;
+    background-color: white;
+    height:5%;
+    font-size:23px;
+}
